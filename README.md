@@ -25,7 +25,7 @@ In total there are:
 
 A more comprehensive parts list can be found on the Hackster Page. 
 
-NOTE: The "PocketBeagle Device" had not been made when the PCB layout was done, so the example PocketBeagle is included here. Most of the pins are used, so it is likely what would be used regardless.
+NOTE: The "PocketBeagle Device" had not been made when the PCB layout was done, so the example PocketBeagle is included here. The file for the custom PocketBeagle is included in the library.
 NOTE: The project guidelines mentioned a 4"x5" maximum size, but in order to fit all of the components and be the size of the console, PocketKerbal is 12" x 6". It could be reduced if it was necessary. 
 NOTE: The LCD screen was used as opposed to the SPI screen in my library. https://www.adafruit.com/product/181 
 
